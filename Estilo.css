@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+.principal{
+    width: 700px;
+    height: 700px;
+    background-color:antiquewhite;
+    margin: auto;
+    display: flex;
+}
+.caja{
+    height: 690px;
+    width: 500px;
+    background-color: darkcyan;
+    margin: 5px;
+}
+.c1{
+    height: 225px;
+    width: 215px;
+    background-color:darkcyan;
+    margin: 10px;
+    display: flex;
+}
+.c1-1{
+    width: 219px;
+    height: 220px;
+    background-color:black;
+    margin: 5px;
+}
+.c2{
+    height: 225px;
+    width: 210px;
+    background-color:darkcyan;
+    margin: 10px;
+}
+.c2-2{
+    width: 210px;
+    height: 75px;
+    background-color: black;
+    margin: 5px;
+}
+.c3{
+    height: 200px;
+    width: 220px;
+    background-color:darkcyan;
+    margin: 10px;
+    display: flex;
+}
+.c3-1{
+    width: 100px;
+    height: 210px;
+    background-color: black;
+    margin: 4px;
+}
+.cont2{
+    height:100px;
+    width: 200px;
+    background-color: black;
+    margin: 13px;
+}
+.cont3{
+    height: 82px;
+    width: 180px;
+    background-color:darkcyan;
+    margin: 15px;
+    display: flex;
+}
+.cajita{
+    width: 80px;
+    height: 60px;
+    background-color:black;
+    margin: 5px;
+}
